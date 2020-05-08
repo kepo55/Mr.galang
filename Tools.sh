@@ -11,7 +11,7 @@ echo "\033[0;32mpilih menu Toolsnya"
 echo "\033[1;33m[1]hack fecebok"
 echo "\033[1;31m[2]spam JDID"
 echo "\033[0;32m[3]Hack Pulsa"
-echo "'\e[1;34m'[4]install bahan"
+echo "\033[0;37m[4]install bahan"
 read -p "[?] pilih : " pil;
 # sabar gan
 if [ $pil = 1 ]
