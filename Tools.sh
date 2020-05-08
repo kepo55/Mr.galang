@@ -1,5 +1,6 @@
 #Authornya jangan di ganti hargi yg sudah buatnya
 clear
+figlet "Tools"
 echo "\033[1;33m----------------------------------"
 echo "\033[0;32mAuthor =Mr.G4L4N9"
 echo "\033[1;33myoutube =JKT Your Gaming"
