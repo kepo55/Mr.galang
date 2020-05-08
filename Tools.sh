@@ -14,8 +14,9 @@ echo "\033[0;32m[3]Hack Pulsa"
 echo "\033[1;33m[4]Install Bahan"
 read -p "[?] pilih : " pil:
 # sabar gan
-fi [ $pil = 1 ]
+if [ $pil = 1 ]
 then
 git clone https://github.com/kepo55/jembutz
 cd jembutz
 python2 jembutz
+fi
